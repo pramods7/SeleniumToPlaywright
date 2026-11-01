@@ -1,0 +1,31 @@
+{
+  "name": "llm-eval-sdet",
+  "version": "1.0.0",
+  "description": "AI-powered Selenium to Playwright converter using local LLM (Ollama). Privacy-first, no cloud APIs.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "concurrently \"node server.js\" \"cd ui && npm run dev\"",
+    "setup": "npm install && cd ui && npm install",
+    "test:ollama": "node tools/test_ollama.js"
+  },
+  "keywords": [
+    "selenium",
+    "playwright",
+    "llm",
+    "ollama",
+    "ai",
+    "testing",
+    "sdet",
+    "migration",
+    "codellama"
+  ],
+  "author": "Pramod Dutta",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "concurrently": "^9.1.2",
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
