@@ -582,7 +582,7 @@ export default function App() {
       <footer className="app-footer">
         <p>
           Built with ❤️ for the <strong>AITesterBlueprint</strong> series ·{' '}
-          <a href="https://github.com/PramodDutta/AITesterBlueprint" target="_blank" rel="noreferrer">
+          <a href="https://github.com/pramods7/SeleniumToPlaywright" target="_blank" rel="noreferrer">
             GitHub
           </a>
           {' · '}

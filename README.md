@@ -248,7 +248,7 @@ Expected output:
 
 ## 📚 Part of AITesterBlueprint Series
 
-This project is **Project 03** in the [AITesterBlueprint](https://github.com/PramodDutta/AITesterBlueprint) series — a collection of real-world AI + testing projects for SDETs and QA Engineers.
+This project is **Project 03** in the [AITesterBlueprint](https://github.com/pramods7/AIProjects) series — a collection of real-world AI + testing projects for SDETs and QA Engineers.
 
 | # | Project | Description |
 |---|---|---|
@@ -260,4 +260,4 @@ This project is **Project 03** in the [AITesterBlueprint](https://github.com/Pra
 
 ## 📄 License
 
-MIT © [Pramod Dutta](https://github.com/PramodDutta)
+MIT © [Pramod S.](https://github.com/pramods7)
